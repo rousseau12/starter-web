@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- Rousseau12 -- <twitter>
+    Rousseau Policard
+    r.p@gmail.com
+    DevOps Engineer
 
 # THANKS
 
-    <name>
+    Rousseau Policard
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java Programming
