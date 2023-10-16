@@ -3,13 +3,13 @@
 
 # TEAM
 
-    Rousseau P.
+    Rousseau Policard
     rousseau.policard@gmail.com
-    rousseau12 DeveOps Engineer 
+    DeveOps Engineer 
 
 # THANKS
 
-    Rousseau P.
+    Rousseau Policard
 
 # TECHNOLOGY COLOPHON
 
