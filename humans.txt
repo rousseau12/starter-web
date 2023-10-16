@@ -3,11 +3,13 @@
 
 # TEAM
 
-    <name> -- Rousseau12 -- <twitter>
+    Rousseau P.
+    rousseau.policard@gmail.com
+    rousseau12 DeveOps Engineer
 
 # THANKS
 
-    <name>
+    Rousseau P.
 
 # TECHNOLOGY COLOPHON
 
