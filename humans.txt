@@ -3,6 +3,8 @@
 
 Hi, I'm modifying the file before rebate conflict to fixed.
 
+HI, this line here will conflict with the changes made in master.. 
+
 # TEAM
 
     Rousseau Policard
