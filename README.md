@@ -10,6 +10,7 @@ A lot of lectures are already submited.
 
 This is the famous and one of the Best Training Course of DevOps
 Adding Git rebase lectures in Git advance part.
+We have done so much work together. 
 
 ## GIT Comparisons
 adding GIT comparisons lecture
