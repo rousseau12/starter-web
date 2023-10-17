@@ -5,6 +5,8 @@ Hi, I'm modifying the file before rebate conflict to fixed.
 
 Making changes in local repository.
 
+HI, this line here will conflict with the changes made in master.. 
+
 # TEAM
 
     Rousseau Policard
