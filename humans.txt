@@ -1,18 +1,19 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-Hi, I'm modifying the file before rebate conflict to fixed.
+Hi, I'm modifying the file before rebase conflict to fixed.
 
 Making changes in local repository.
+Adding important Notes on GIT stash.
 
-HI, this line here will conflict with the changes made in master.. 
+HI, this line here will conflict with the changes made in master..
 
 # TEAM
 
     Rousseau Policard
     rousseau.policard@gmail.com
     DeveOps Engineer Level III
-    IT Organization 
+    IT Organization
 
 # THANKS
 
