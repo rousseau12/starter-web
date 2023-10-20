@@ -15,6 +15,7 @@ We have done so much work together.
 
 ## GIT Comparisons
 adding GIT comparisons lecture
+adding new lecture of stash
 
 ## Contribution
 Fork the repo and raise a pull request for review 
